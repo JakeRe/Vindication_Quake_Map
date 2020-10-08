@@ -1,0 +1,19 @@
+[ActiveNet]
+Cmdline=
+Name=Quake
+Run=quake.exe
+SessionType=
+Platform=1
+Language=255
+Version=1.7
+ShellOpts=
+
+[Version Info]
+Version=1.0
+QA=2420
+Branch=0.0
+
+[Product Info]
+ProductID=ultquakew98
+ProductName=Quake
+WebReg=http://cgi.activision.com/cgi/webreg/webreg
