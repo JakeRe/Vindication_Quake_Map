@@ -1,6 +1,8 @@
 /trenchbroom/
 /source/
 /tools/
+/Docs/
+*.html
 *.PAK
 *.dll
 *.zip
