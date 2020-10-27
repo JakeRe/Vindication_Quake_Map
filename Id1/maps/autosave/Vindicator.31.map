@@ -2911,7 +2911,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Wall"
-"_tb_id" "311"
+"_tb_id" "351"
 // brush 0
 {
 ( 1312 -192 480 ) ( 1312 -264 480 ) ( 1312 -192 192 ) 128_grey_1 0 0 0 1 1
@@ -3320,7 +3320,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "312"
+"_tb_id" "352"
 // brush 0
 {
 ( 559.43145750507608 -653.82337649086276 32 ) ( 558.72435072388953 -653.11626970967609 32 ) ( 559.43145750507608 -653.82337649086276 33 ) 128_honey_3 0 0 0 1 1
@@ -3579,7 +3579,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "313"
+"_tb_id" "353"
 // brush 0
 {
 ( 526.17662350913724 388.56854249492415 32 ) ( 526.88373029032391 389.27564927611058 32 ) ( 526.17662350913724 388.56854249492415 33 ) azfloor1_1 0 0 0 1 1
@@ -3838,7 +3838,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "314"
+"_tb_id" "354"
 // brush 0
 {
 ( 1500.0782104867931 435.31370849899372 32 ) ( 1500.0782104867931 435.31370849899372 33 ) ( 1499.3711037056196 434.60660171779409 32 ) 128_honey_3 0 0 0 1 1
@@ -4097,7 +4097,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "315"
+"_tb_id" "355"
 // brush 0
 {
 ( 1345.6080810142132 -528 48 ) ( 1344.900974233027 -527.29289321881333 48 ) ( 1345.6080810142132 -528 49 ) 128_honey_3 0 0 0 1 1
@@ -4507,7 +4507,7 @@
 // entity 52
 {
 "classname" "light_torch_small_walltorch"
-"origin" "300 -508 356"
+"origin" "300 -508 380"
 "angle" "180"
 }
 // entity 53
@@ -4523,8 +4523,9 @@
 "classname" "light"
 "origin" "56 -128 104"
 "_color" "1 0.992157 0.737255"
-"delay" "3"
-"wait" ".5"
+"delay" "2"
+"wait" "2"
+"angle" "117"
 }
 // entity 55
 {
@@ -4623,7 +4624,7 @@
 // entity 68
 {
 "classname" "light_torch_small_walltorch"
-"origin" "332 -476 356"
+"origin" "332 -476 380"
 "angle" "90"
 }
 // entity 69
@@ -4745,4 +4746,23 @@
 "origin" "88 -328 352"
 "_color" "1 0.513726 0.513726"
 "wait" ".5"
+}
+// entity 86
+{
+"classname" "light"
+"origin" "752 -400 136"
+"_color" "1 0.513726 0.513726"
+"wait" ".5"
+}
+// entity 87
+{
+"classname" "light_torch_small_walltorch"
+"origin" "333 -547 372"
+"angle" "270"
+}
+// entity 88
+{
+"classname" "light_torch_small_walltorch"
+"origin" "371 -517 380"
+"angle" "345"
 }
